@@ -73,6 +73,8 @@ For calibration: dense forest in this region reads 0.70–0.85 NDVI, while clear
 
 ## Result
 
+![NDVI change detection, Kodagu 2021-2025](change_map.png)
+
 **No evidence of large-scale forest clearing was detected.** Vegetation cover remained stable across the majority of the assessed area.
 
 ### One signal investigated and excluded
